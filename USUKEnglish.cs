@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace LangUtils
+﻿namespace LangUtils
 {
     public class USUKEnglish
     {
@@ -72,7 +70,6 @@ namespace LangUtils
             {
             // very much not exhaustive - please add to these as you find
 
-
                 { "color", "colour" },
                 { "armor", "armour" },
                 { "behavior", "behaviour" },
@@ -131,6 +128,12 @@ namespace LangUtils
                 { "authorize", "authorise" },
                 { "authorization", "authorisation" },
                 { "authorized", "authorised" },
+                { "optimize", "optimise" },
+                { "optimization", "optimisation" },
+                { "optimized", "optimised" },
+                { "specialize", "specialise" },
+                { "specialization", "specialisation" },
+                { "specialized", "specialised" },
                 { "criticize", "criticise" },
                 { "criticized", "criticised" },
                 { "recognize", "recognise" },
